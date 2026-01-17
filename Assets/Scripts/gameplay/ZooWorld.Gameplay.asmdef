@@ -1,0 +1,19 @@
+{
+    "name": "ZooWorld.Gameplay",
+    "rootNamespace": "ZooWorld.Gameplay",
+    "references": [
+        "Core",
+        "Core.MvpUi",
+        "VContainer",
+        "UniTask"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": false,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

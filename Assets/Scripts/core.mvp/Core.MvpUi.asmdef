@@ -1,0 +1,14 @@
+{
+    "name": "Core.MvpUi",
+    "rootNamespace": "Core.MvpUi",
+    "references": ["VContainer", "Unity.Addressables", "Core"],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": false,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

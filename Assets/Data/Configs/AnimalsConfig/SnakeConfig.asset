@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c9f4086b5f4d4821a1ce9a03cb3f62f5, type: 3}
+  m_Name: SnakeConfig
+  m_EditorClassIdentifier: Assembly-CSharp::DefaultNamespace.AnimalConfig
+  animalName: Snake
+  kind: 1
+  movement: {fileID: 11400000, guid: 17f768a1d48fb3143adb525ab0cbd135, type: 2}
+  prefab: {fileID: 1881904127138121710, guid: 5294a33f25f6dc74ebb6e3331f5f987a, type: 3}
+  view: {fileID: 6797465633618841632, guid: 5294a33f25f6dc74ebb6e3331f5f987a, type: 3}
